@@ -1,30 +1,27 @@
-# Student event website
+# 42_Events.h 🎉  
+A modern event listing and registration web app for students and admins — built with Next.js, Tailwind CSS, and love 💻✨.
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+## 🧠 Features
+- 👨‍🎓 Student and Admin user roles
+- 📅 Interactive event list with registration
+- ✅ Registration state tracking (per user session)
+- 📝 Admin can **add**, **edit**, and **delete** events
+- 🔔 Live notifications for new or updated events
+- 💬 Typing animations for homepage text
+- 📱 Fully responsive design
+- 🎨 Built using [v0.dev](https://v0.dev)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/chrysalxms-projects/v0-student-event-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/ZlGyY5GklWH)
+## 🚀 Tech Stack
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide Icons](https://lucide.dev/)
+- [Radix UI](https://www.radix-ui.com/)
 
-## Overview
+## 🛠 Setup Instructions
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/chrysalxms-projects/v0-student-event-website](https://vercel.com/chrysalxms-projects/v0-student-event-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/ZlGyY5GklWH](https://v0.dev/chat/projects/ZlGyY5GklWH)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
